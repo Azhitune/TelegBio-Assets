@@ -1,8 +1,8 @@
 {
   "name": "TelegBio Genesis Architects",
   "description": "Official 20-item Genesis Lifetime Pass collection for TelegBio Telegram Mini App. Grants permanent Lifetime Premium access, exclusive PFP avatars, and founder status.",
-  "image": "https://raw.githubusercontent.com/YourRepo/TelegBio-Assets/main/LifetimePremiumPasses/collection.png",
-  "cover_image": "https://raw.githubusercontent.com/Azhitune/TelegBio-Assets/main/LifetimePremiumPasses/cover.png",
+  "image": "https://raw.githubusercontent.com/YourRepo/TelegBio-Assets/LifetimePremiumPasses/collection.png",
+  "cover_image": "https://raw.githubusercontent.com/Azhitune/TelegBio-Assets/LifetimePremiumPasses/cover.png",
   "external_link": "https://t.me/TelegBioBot",
   "social_links": [
     "https://t.me/Teleg_Bio",
