@@ -1,0 +1,27 @@
+{
+  "name": "TelegBio Genesis #001 — Aether Zero",
+  "description": "Genesis Lifetime Pass #001 for TelegBio. Grants permanent Lifetime Premium access, exclusive PFP status, and other perks.",
+  "image": "https://raw.githubusercontent.com/Azhitune/TelegBio-Assets/LifetimePremiumPasses/001.png",
+  "attributes": [
+    {
+      "trait_type": "Faction",
+      "value": "Core Architects"
+    },
+    {
+      "trait_type": "Access Level",
+      "value": "Lifetime Premium"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Genesis Legendary"
+    },
+    {
+      "trait_type": "PFP Avatar",
+      "value": "Aether Zero"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 20"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "TelegBio Genesis #005 — Data Nomad",
+  "description": "Genesis Lifetime Pass #005 for TelegBio. Grants permanent Lifetime Premium access, exclusive PFP status, and other perks.",
+  "image": "https://raw.githubusercontent.com/Azhitune/TelegBio-Assets/LifetimePremiumPasses/005.png",
+  "attributes": [
+    {
+      "trait_type": "Faction",
+      "value": "Core Architects"
+    },
+    {
+      "trait_type": "Access Level",
+      "value": "Lifetime Premium"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "PFP Avatar",
+      "value": "Data Nomad"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "5 of 20"
+    }
+  ]
+}

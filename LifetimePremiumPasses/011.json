@@ -1,0 +1,27 @@
+{
+  "name": "TelegBio Genesis #011 — Glitch Ghost",
+  "description": "Genesis Lifetime Pass #011 for TelegBio. Grants permanent Lifetime Premium access, exclusive PFP status, and other perks.",
+  "image": "https://raw.githubusercontent.com/Azhitune/TelegBio-Assets/LifetimePremiumPasses/011.png",
+  "attributes": [
+    {
+      "trait_type": "Faction",
+      "value": "Shadow Operators"
+    },
+    {
+      "trait_type": "Access Level",
+      "value": "Lifetime Premium"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "PFP Avatar",
+      "value": "Glitch Ghost"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "11 of 20"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "TelegBio Genesis #006 — Astra Helios",
+  "description": "Genesis Lifetime Pass #006 for TelegBio. Grants permanent Lifetime Premium access, exclusive PFP status, and other perks.",
+  "image": "https://raw.githubusercontent.com/Azhitune/TelegBio-Assets/LifetimePremiumPasses/006.png",
+  "attributes": [
+    {
+      "trait_type": "Faction",
+      "value": "Cosmic Observers"
+    },
+    {
+      "trait_type": "Access Level",
+      "value": "Lifetime Premium"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Ultra Rare"
+    },
+    {
+      "trait_type": "PFP Avatar",
+      "value": "Astra Helios"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "6 of 20"
+    }
+  ]
+}
