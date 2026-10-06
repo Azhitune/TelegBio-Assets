@@ -1,0 +1,27 @@
+{
+  "name": "TelegBio Genesis #002 — Cipher Rex",
+  "description": "Genesis Lifetime Pass #002 for TelegBio. Grants permanent Lifetime Premium access, exclusive PFP status, and other perks.",
+  "image": "https://raw.githubusercontent.com/Azhitune/TelegBio-Assets/main/LifetimePremiumPasses/002.png",
+  "attributes": [
+    {
+      "trait_type": "Faction",
+      "value": "Core Architects"
+    },
+    {
+      "trait_type": "Access Level",
+      "value": "Lifetime Premium"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "PFP Avatar",
+      "value": "Cipher Rex"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "2 of 20"
+    }
+  ]
+}

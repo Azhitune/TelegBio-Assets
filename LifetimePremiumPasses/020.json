@@ -1,0 +1,27 @@
+{
+  "name": "TelegBio Genesis #020 — Genesis Omega",
+  "description": "Genesis Lifetime Pass #020 for TelegBio. Grants permanent Lifetime Premium access, exclusive PFP status, and other perks.",
+  "image": "https://raw.githubusercontent.com/Azhitune/TelegBio-Assets/main/LifetimePremiumPasses/020.png",
+  "attributes": [
+    {
+      "trait_type": "Faction",
+      "value": "Quantum Monarchs"
+    },
+    {
+      "trait_type": "Access Level",
+      "value": "Lifetime Premium"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Genesis Legendary"
+    },
+    {
+      "trait_type": "PFP Avatar",
+      "value": "Genesis Omega"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "20 of 20"
+    }
+  ]
+}
